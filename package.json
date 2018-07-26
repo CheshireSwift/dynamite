@@ -1,0 +1,22 @@
+{
+  "name": "dynamite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheshireSwift/dynamite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CheshireSwift/dynamite/issues"
+  },
+  "homepage": "https://github.com/CheshireSwift/dynamite#readme",
+  "devDependencies": {
+    "jest": "^23.4.1"
+  }
+}
